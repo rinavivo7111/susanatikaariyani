@@ -1,0 +1,21 @@
+*{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+}
+html {
+    background-color: #dedede;
+}
+#app {
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    boder-radius: 5px;
+    background-color: #FFF;
+}
+h1 {
+    font-size: 30px;
+}
+.input {
+    padding: 10px;
+    width: 300px;
+}
